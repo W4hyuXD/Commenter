@@ -1,3 +1,7 @@
-import run
+# YAHAHAHAA MAU RECODD YA TOLOL?
+# TINGGAL PAKE AJA UDAH GAUSAH BANYAK TINGKAH
+import os
+from Data import menu
 
-run=p1
+os.system('git pull')
+menu.Menu_Tools()
