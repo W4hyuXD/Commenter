@@ -27,7 +27,7 @@ pkg update -y && pkg upgrade -y
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone https://github.com/WahyuuXD/Commenter
+git clone https://github.com/WahyuuXD/Comments
 ```
   </details>
   <details>
@@ -36,7 +36,7 @@ git clone https://github.com/WahyuuXD/Commenter
 - Move to Folder
 
 ```bash
-cd Commenter
+cd Comments
 ```
 
 - Update Repository
@@ -51,12 +51,11 @@ python3 Run.py
 </details>
   
 
-<h1>Information</h1>
+<h2>Information</h2>
 <p> Jika Output Share Failed Semua Kemungkinan ID Anda Tidak Support Atau Akun Tumbal Terkena Spam (Pelanggaran)</p>
 
 ## My Social Media
 [![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-blue?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/Wahyu.w4hyu.404/)](https://www.facebook.com/Wahyu.w4hyu.404)
-[![Instagram Badge](https://img.shields.io/badge/-why.404__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/why.404__/)](https://www.instagram.com/why.404_)
 
 
   <details open>
@@ -68,8 +67,18 @@ python3 Run.py
    # Menu Page
    <img src="/img/menu.png">
    
+   ***
+   <b>
+   <p1>Dokumentasi SASF</p1>
+   <a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
+   
+   <p2>Dokumentasi ASFU</p2>
+   <a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
+   </b>
+   ***
    # Result 
    <img src="/img/result.png">
+   <img src="/img/failed.png"
    <img src="/img/result2.png">
    
    # Komentar
