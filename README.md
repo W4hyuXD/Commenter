@@ -70,20 +70,17 @@ python3 Run.py
    
    ***
    <b>
-   <p>Dokumentasi SASF</p>
-   <a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
-   
-   <p>Dokumentasi ASFU</p>
-   <a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
+   <p>Dokumentasi SASF</p><a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
+   <p>Dokumentasi ASFU</p><a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
    </b>
    
    ***
    <p align="center"><b>Comments V2</b></p>
    <img src="/img/successv2.png" />
    <p align="center"><b>Result</b></p>
-   <img src="/img/success.png"/>
-   <img src="/img/failed.png"/>
-   <img src="/img/result.png"/>
+   <img src="/img/success.png" />
+   <img src="/img/failed.png" />
+   <img src="/img/result.png" />
    <p align="center"><b>Output</b></p>
    <img src="/img/komen.png" />
    <img src="/img/resultv2.png" />
