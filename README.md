@@ -1,6 +1,6 @@
 <h1 align='center'>ACPF</h1>
 <p align='center'>Auto Comment Post On Your Profile</p>
-
+<img src="/img/Commenter.png"/>
 <details open>
   <summary><strong>Update Repository & Upgrade Package</strong></summary>
   
@@ -70,20 +70,22 @@ python3 Run.py
    
    ***
    <b>
-   <p1>Dokumentasi SASF</p1>
+   <p>Dokumentasi SASF</p>
    <a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
    
-   <p2>Dokumentasi ASFU</p2>
+   <p>Dokumentasi ASFU</p>
    <a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
    </b>
    ***
-   # Result 
-   <img src="/img/result.png">
-   <img src="/img/failed.png"
-   <img src="/img/result2.png">
-   
-   # Komentar
-   <img src="/img/komen.png">
+   <p align="center"><b>Comments V2</b></p>
+   <img src="/img/successv2.png" />
+   <p align="center"><b>Result</b></p>
+   <img src="/img/success.png"/>
+   <img src="/img/failed.png"/>
+   <img src="/img/result.png"/>
+   <p align="center"><b>Output</b></p>
+   <img src="/img/komen.png" />
+   <img src="/img/resultv2.png" />
    </details>
 
 ```python
