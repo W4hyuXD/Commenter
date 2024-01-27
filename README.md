@@ -70,8 +70,9 @@ python3 Run.py
    
    ***
    <b>
-   <p>Dokumentasi SASF</p><a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
-   <p>Dokumentasi ASFU</p><a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
+   <b>Dokumentasi SASF </b><a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
+     
+   <b>Dokumentasi ASFU </b><a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
    </b>
    
    ***
