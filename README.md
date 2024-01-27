@@ -67,7 +67,7 @@ python3 Run.py
    
    # Menu Page
    <img src="/img/menu.png">
-   
+   ***
    <b>
    <p>Dokumentasi SASF</p>
    <a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
@@ -75,6 +75,7 @@ python3 Run.py
    <p>Dokumentasi ASFU</p>
    <a href="https://github.com/WahyuuXD/unliShare">Klik Disini</a>
    </b>
+   
    ***
    <p align="center"><b>Comments V2</b></p>
    <img src="/img/successv2.png" />
