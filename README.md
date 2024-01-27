@@ -68,7 +68,6 @@ python3 Run.py
    # Menu Page
    <img src="/img/menu.png">
    
-   ***
    <b>
    <p>Dokumentasi SASF</p>
    <a href="https://github.com/WahyuuXD/SASF">Klik Disini</a>
