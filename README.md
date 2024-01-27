@@ -78,6 +78,12 @@ python3 Run.py
    ***
    <p align="center"><b>Comments V2</b></p>
    <img src="/img/successv2.png" />
+   <p>Work:</p>
+   
+   - Menambahkan Komentar Pada Postingan Tunggal Dengan Meminta Link Postingan
+   - Menggunakan Cookie Tunggal ( Non Cloning Random Cookies )
+   - User Dapat Menulis Pesan Komentar Yang Akan Di Input Ke Komentar Postingan
+   
    <p align="center"><b>Result</b></p>
    <img src="/img/success.png" />
    <img src="/img/failed.png" />
