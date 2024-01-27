@@ -56,7 +56,7 @@ python3 Run.py
 <p> Jika Output Share Failed Semua Kemungkinan ID Anda Tidak Support Atau Akun Tumbal Terkena Spam (Pelanggaran)</p>
 
 ## My Social Media
-[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-blue?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/Wahyu.w4hyu.404/)](https://www.facebook.com/Wahyu.w4hyu.404)
+[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-blue?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/whyu.404/)](https://www.facebook.com/whyu.404)
 
 
   <details open>
