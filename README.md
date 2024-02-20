@@ -15,6 +15,7 @@ pkg update -y && pkg upgrade -y
   pkg i -y git python python3
   pkg i -y play-audio
   pip install requests
+  pip install fbtoolsbox
   pip install bs4
   pip install mechanize
   pip install rich
